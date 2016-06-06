@@ -1,0 +1,28 @@
+{
+  "name": "homeworkjs17_18",
+  "version": "1.0.0",
+  "description": "Homework JS 17-18",
+  "main": "main.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isinglee/homeworkjs17_18.git"
+  },
+  "keywords": [
+    "homeworkjs17_18"
+  ],
+  "author": "Larysa Samoilova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isinglee/homeworkjs17_18/issues"
+  },
+  "homepage": "https://github.com/isinglee/homeworkjs17_18#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.3"
+  }
+}
